@@ -1,3 +1,6 @@
+# This fork is to include attachments url retrieval along with the other properties of the returned data. 
+
+
 # GetOldTweets3
 A Python 3 library and a corresponding command line utility for accessing old tweets.
 
